@@ -1,3 +1,10 @@
+representations/CIFAR10_vgg_finetuned/datasets/
+representations/CIFAR10_vgg_finetuned/features/
+representations/CIFAR10_vgg_finetuned/models/
+representations/CIFAR10_vgg_finetuned/__pycache__/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
