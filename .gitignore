@@ -3,7 +3,13 @@ representations/CIFAR10_vgg_finetuned/features/
 representations/CIFAR10_vgg_finetuned/models/
 representations/CIFAR10_vgg_finetuned/__pycache__/
 
+representations/re_MNIST_resnet50_finetuned/data/
+representations/re_MNIST_resnet50_finetuned/state_dicts/
+representations/re_MNIST_resnet50_finetuned/__pycache__/
 
+representations/re_CIFAR10_resnet50_finetuned/data/
+representations/re_CIFAR10_resnet50_finetuned/state_dicts/
+representations/re_CIFAR10_resnet50_finetuned/__pycache__/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
